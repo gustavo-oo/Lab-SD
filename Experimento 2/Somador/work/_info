@@ -1,0 +1,91 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/gustavo/.local/share/Trash/files/Multiplexador.2
+Esomador
+Z0 w1614363047
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 31
+Z3 d/home/gustavo/Documentos/Lab Sd/Experimento 2/Somador
+Z4 8/home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/somador.vhd
+Z5 F/home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/somador.vhd
+l0
+L26 1
+V0ZL98MK=Bk6_4zh^_jIH=2
+!s100 o@nY;a[G_n1Cz612OJgCI0
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1614364479
+!i10b 1
+Z8 !s108 1614364479.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/somador.vhd|
+Z10 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/somador.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+DEx4 work 7 somador 0 22 0ZL98MK=Bk6_4zh^_jIH=2
+!i122 31
+l42
+L39 15
+V0WmJ^HT;jTeez040LYnWO1
+!s100 JjcNkadDOM6PhL14_:Ob92
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etestbench1
+Z13 w1614363494
+!i122 32
+R3
+Z14 8/home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/tb_somador.vhd
+Z15 F/home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/tb_somador.vhd
+l0
+L21 1
+V__OeY2[RHY8a6i2fU>5nY1
+!s100 z7CD`=fIZ76_G<PmiWfkQ0
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/tb_somador.vhd|
+Z17 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/tb_somador.vhd|
+!i113 1
+R11
+R12
+Atb_somador
+Z18 DEx4 work 10 testbench1 0 22 __OeY2[RHY8a6i2fU>5nY1
+R1
+R2
+!i122 32
+l56
+Z19 L33 48
+Z20 VcSX@h1j8C6z4b7gOc_B1K3
+Z21 !s100 GS<0GT@ljiJ=8o]_9Jg920
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12

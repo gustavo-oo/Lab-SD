@@ -1,0 +1,23 @@
+{{/home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/somador.vhd}} {1 {vcom -work work -2002 -explicit {/home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/somador.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:18:27 on Feb 26,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/somador.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SOMADOR
+-- Compiling architecture rtl of SOMADOR
+End time: 15:18:27 on Feb 26,2021, Elapsed time: 0:00:00
+
+} {} {}} {{/home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/tb_somador.vhd}} {1 {vcom -work work -2002 -explicit {/home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/tb_somador.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 15:18:27 on Feb 26,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/gustavo/Documentos/Lab Sd/Experimento 2/Somador/tb_somador.vhd 
+-- Loading package STANDARD
+-- Compiling entity testbench1
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture tb_somador of testbench1
+End time: 15:18:27 on Feb 26,2021, Elapsed time: 0:00:00
+
+} {} {}}

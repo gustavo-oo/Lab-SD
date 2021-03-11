@@ -1,0 +1,264 @@
+# reading /home/gustavo/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project mux
+vsim work.multiplexador
+# vsim work.multiplexador 
+# Start time: 22:28:39 on Mar 01,2021
+# Loading std.standard
+# ** Error: (vsim-3173) Entity '/home/gustavo/Documentos/Lab Sd/Experimento 2/Mux/work.multiplexador' has no architecture.
+# Error loading design
+# End time: 22:28:39 on Mar 01,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_mux.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of tb_mux.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.testbenchmux(tb_mux)
+# vsim work.testbenchmux(tb_mux) 
+# Start time: 22:29:42 on Mar 01,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.testbenchmux(tb_mux)
+# Loading work.mux(rtl)
+vsim work.mux
+# End time: 22:30:08 on Mar 01,2021, Elapsed time: 0:00:26
+# Errors: 0, Warnings: 3
+# vsim work.mux 
+# Start time: 22:30:08 on Mar 01,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.mux(rtl)
+vsim work.testbenchmux
+# End time: 22:30:20 on Mar 01,2021, Elapsed time: 0:00:12
+# Errors: 0, Warnings: 1
+# vsim work.testbenchmux 
+# Start time: 22:30:20 on Mar 01,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.testbenchmux(tb_mux)
+# Loading work.mux(rtl)
+add wave -position insertpoint sim:/testbenchmux/mux1/*
+restart
+run
+# Compile of mux.vhd was successful.
+# Compile of tb_mux.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# End time: 22:34:16 on Mar 01,2021, Elapsed time: 0:03:56
+# Errors: 0, Warnings: 2
+# Closing project /home/gustavo/Documentos/Lab Sd/Experimento 2/Mux/mux.mpf
+# reading /home/gustavo/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+vsim work.testbenchmux
+# vsim work.testbenchmux 
+# Start time: 22:35:58 on Mar 01,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.testbenchmux(tb_mux)
+# Loading work.mux(rtl)
+# Loading project mux
+# Compile of mux.vhd was successful.
+# Compile of tb_mux.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.testbenchmux
+# End time: 22:36:34 on Mar 01,2021, Elapsed time: 0:00:36
+# Errors: 0, Warnings: 2
+# vsim work.testbenchmux 
+# Start time: 22:36:34 on Mar 01,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.testbenchmux(tb_mux)
+# Loading work.mux(rtl)
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_mux.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of tb_mux.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.testbenchmux
+# End time: 22:37:07 on Mar 01,2021, Elapsed time: 0:00:33
+# Errors: 0, Warnings: 3
+# vsim work.testbenchmux 
+# Start time: 22:37:07 on Mar 01,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.testbenchmux(tb_mux)
+# Loading work.mux(rtl)
+add wave -position insertpoint sim:/testbenchmux/mux1/*
+run
+add wave -position insertpoint sim:/testbenchmux/mux1/*
+quit -sim
+# End time: 22:46:56 on Mar 01,2021, Elapsed time: 0:09:49
+# Errors: 0, Warnings: 1
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_mux.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of tb_mux.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.testbenchmux
+# vsim work.testbenchmux 
+# Start time: 22:47:23 on Mar 01,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.testbenchmux(tb_mux)
+# Loading work.mux(rtl)
+add wave -position insertpoint sim:/testbenchmux/mux1/*
+run
+quit -sim
+# End time: 22:49:34 on Mar 01,2021, Elapsed time: 0:02:11
+# Errors: 0, Warnings: 3
+# reading /home/gustavo/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+file mkdir {/home/gustavo/Documentos/Lab Sd/Experimento 3/Mux_8x1}
+# Loading project mux_8x1
+# Errors: 8, Warnings: 0
+# Errors: 1, Warnings: 0
+# Errors: 8, Warnings: 0
+# Compile of mux_8x1.vhd failed.
+# Errors: 1, Warnings: 0
+# Compile of tb_mux_8x1.vhd failed.
+# Errors: 8, Warnings: 0
+# Errors: 0, Warnings: 0
+# Compile of tb_mux_8x1.vhd was successful.
+# Errors: 8, Warnings: 0
+# Errors: 8, Warnings: 0
+# Compile of mux_8x1.vhd failed.
+# Errors: 0, Warnings: 0
+# Compile of tb_mux_8x1.vhd was successful.
+# Errors: 8, Warnings: 0
+# Errors: 8, Warnings: 0
+# Errors: 8, Warnings: 0
+# Compile of mux_8x1.vhd failed.
+# Compile of mux_8x1.vhd failed with 8 errors.
+# Errors: 0, Warnings: 0
+# Compile of tb_mux_8x1.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of mux_8x1.vhd was successful.
+# Compile of tb_mux_8x1.vhd was successful.
+# Compile of mux_8x1.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_mux_8x1(testbench)
+# vsim work.tb_mux_8x1(testbench) 
+# Start time: 23:19:38 on Mar 01,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_mux_8x1(testbench)
+# Loading work.mux_8x1(mux)
+add wave -position insertpoint sim:/tb_mux_8x1/mux/*
+run
+quit -sim
+# End time: 23:45:25 on Mar 01,2021, Elapsed time: 0:25:47
+# Errors: 0, Warnings: 11
+# reading /home/gustavo/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+file mkdir {/home/gustavo/Documentos/Lab Sd/Experimento 3/Decod_4x16}
+# Loading project Decodificador_4x16
+# Errors: 1, Warnings: 0
+# Errors: 3, Warnings: 0
+# Errors: 1, Warnings: 0
+# Compile of decod_4x16.vhd failed.
+# Errors: 3, Warnings: 0
+# Compile of tb_decod_4x16.vhd failed.
+# Compile of decod_4x16.vhd failed with 1 errors.
+# Compile of decod_4x16.vhd failed with 1 errors.
+# Compile of decod_4x16.vhd failed with 1 errors.
+# Compile of decod_4x16.vhd was successful.
+# Compile of tb_decod_4x16.vhd failed with 3 errors.
+# Compile of tb_decod_4x16.vhd failed with 1 errors.
+# Compile of tb_decod_4x16.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of decod_4x16.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_decod_4x16.vhd was successful.
+# Compile of decod_4x16.vhd was successful.
+# Compile of tb_decod_4x16.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_decod_4x16(testbench)
+# vsim work.tb_decod_4x16(testbench) 
+# Start time: 00:32:48 on Mar 02,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_decod_4x16(testbench)
+# Loading work.decod_4x16(decod)
+# ** Fatal: (vsim-3817) Port "A" of entity "decod_4x16" is not in the component being instantiated.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_decod_4x16/uut File: /home/gustavo/Documentos/Lab Sd/Experimento 3/Decod_4x16/decod_4x16.vhd Line: 26
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 00:32:48 on Mar 02,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 15
+# Errors: 0, Warnings: 0
+# Compile of decod_4x16.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_decod_4x16.vhd was successful.
+# Compile of decod_4x16.vhd was successful.
+# Compile of tb_decod_4x16.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_decod_4x16
+# vsim work.tb_decod_4x16 
+# Start time: 00:33:16 on Mar 02,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_decod_4x16(testbench)
+# Loading work.decod_4x16(decod)
+# ** Fatal: (vsim-3817) Port "A" of entity "decod_4x16" is not in the component being instantiated.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_decod_4x16/uut File: /home/gustavo/Documentos/Lab Sd/Experimento 3/Decod_4x16/decod_4x16.vhd Line: 26
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 00:33:17 on Mar 02,2021, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 3
+# Errors: 0, Warnings: 0
+# Compile of decod_4x16.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_decod_4x16.vhd was successful.
+# Compile of decod_4x16.vhd was successful.
+# Compile of tb_decod_4x16.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_decod_4x16
+# vsim work.tb_decod_4x16 
+# Start time: 00:37:01 on Mar 02,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_decod_4x16(testbench)
+# Loading work.decod_4x16(decod)
+add wave -position insertpoint sim:/tb_decod_4x16/uut/*
+run
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+quit -sim
+# End time: 00:42:55 on Mar 02,2021, Elapsed time: 0:05:54
+# Errors: 0, Warnings: 3
+# Compile of decod_4x16.vhd was successful.
+# Compile of tb_decod_4x16.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_decod_4x16
+# vsim work.tb_decod_4x16 
+# Start time: 00:43:07 on Mar 02,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_decod_4x16(testbench)
+# Loading work.decod_4x16(decod)
+add wave -position insertpoint sim:/tb_decod_4x16/uut/*
+run
+# A bookmark named "bookmark0" has been added for window "Wave"
+quit -sim
+# Bookmark saving is disabled.
+# The 1 bookmark in window "Wave" has been discarded
+# End time: 01:32:05 on Mar 02,2021, Elapsed time: 0:48:58
+# Errors: 0, Warnings: 3

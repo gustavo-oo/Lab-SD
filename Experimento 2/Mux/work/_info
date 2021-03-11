@@ -1,0 +1,91 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/gustavo/Documentos/Lab Sd/Experimento 2/Somador
+Emux
+Z0 w1614649425
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 36
+Z3 d/home/gustavo/Documentos/Lab Sd/Experimento 2/Mux
+Z4 8/home/gustavo/Documentos/Lab Sd/Experimento 2/Mux/mux.vhd
+Z5 F/home/gustavo/Documentos/Lab Sd/Experimento 2/Mux/mux.vhd
+l0
+L24 1
+V0j<?:ZP=JV[F>>1I4<DI<1
+!s100 eX?i150[9lIlGfo9RR2n]2
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1614649632
+!i10b 1
+Z8 !s108 1614649632.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 2/Mux/mux.vhd|
+Z10 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 2/Mux/mux.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+DEx4 work 3 mux 0 22 0j<?:ZP=JV[F>>1I4<DI<1
+!i122 36
+l39
+L36 21
+V89zn<TKOn9nkXIWmzB67@3
+!s100 _C5c84z[De5AScPKIVOkk1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etestbenchmux
+Z13 w1614649604
+!i122 37
+R3
+Z14 8/home/gustavo/Documentos/Lab Sd/Experimento 2/Mux/tb_mux.vhd
+Z15 F/home/gustavo/Documentos/Lab Sd/Experimento 2/Mux/tb_mux.vhd
+l0
+L19 1
+VU>@EdK[kl]GA7MSRa_kf`1
+!s100 Db4@gz=CJ[FW^0jXZo=[f1
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 2/Mux/tb_mux.vhd|
+Z17 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 2/Mux/tb_mux.vhd|
+!i113 1
+R11
+R12
+Atb_mux
+Z18 DEx4 work 12 testbenchmux 0 22 U>@EdK[kl]GA7MSRa_kf`1
+R1
+R2
+!i122 37
+l51
+Z19 L31 45
+Z20 VVL`omFXX65<3J:cS^aGFM3
+Z21 !s100 oRERPC>=37NTkZ9X`Sh<O1
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
