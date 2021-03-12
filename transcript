@@ -1,0 +1,320 @@
+project open {/home/gustavo/Documentos/Lab Sd/Experimento 4/questao_1/questao_1}
+# Loading project questao_1
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_questao1.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of questao1.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# Compile of questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.tb_questao1
+# vsim work.tb_questao1 
+# Start time: 13:52:11 on Mar 08,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_questao1(testbench)
+# Loading work.questao1(rtl)
+# Loading work.mux(rtl)
+add wave -position insertpoint sim:/tb_questao1/u1/*
+run
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_questao1.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of questao1.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# Compile of questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.tb_questao1
+# End time: 14:19:31 on Mar 08,2021, Elapsed time: 0:27:20
+# Errors: 0, Warnings: 5
+# vsim work.tb_questao1 
+# Start time: 14:19:31 on Mar 08,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_questao1(testbench)
+# Loading work.questao1(rtl)
+# Loading work.mux(rtl)
+add wave -position insertpoint sim:/tb_questao1/u1/*
+run
+# End time: 14:27:36 on Mar 08,2021, Elapsed time: 0:08:05
+# Errors: 0, Warnings: 1
+# Closing project /home/gustavo/Documentos/Lab Sd/Experimento 4/questao_1/questao_1.mpf
+# reading /home/gustavo/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+file mkdir {/home/gustavo/Documentos/Lab Sd/Experimento 4/questao2}
+# Loading project questao2
+# Break key hit
+# Compile of mux_8x1.vhd was successful.
+# Compile of decod_4x16.vhd was successful.
+# Compile of questao2.vhd failed with 1 errors.
+# Compile of questao2.vhd failed with 1 errors.
+# Compile of questao2.vhd failed with 1 errors.
+# Compile of questao2.vhd failed with 1 errors.
+# Compile of questao2.vhd failed with 1 errors.
+# Compile of questao2.vhd failed with 2 errors.
+# Compile of questao2.vhd failed with 1 errors.
+# Compile of questao2.vhd failed with 11 errors.
+# Compile of questao2.vhd failed with 3 errors.
+# Compile of questao2.vhd was successful.
+# reading /home/gustavo/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project questao_1
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_questao1.vhd was successful.
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Compile of questao1.vhd failed.
+# Compile of questao1.vhd failed with 1 errors.
+# Compile of questao1.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_questao1.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of questao1.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# Compile of questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.tb_questao1
+# vsim work.tb_questao1 
+# Start time: 15:48:38 on Mar 08,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_questao1(testbench)
+# Loading work.questao1(rtl)
+# Loading work.mux(rtl)
+add wave -position insertpoint sim:/tb_questao1/u1/*
+run
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+add wave -position insertpoint sim:/tb_questao1/u1/u1/*
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+run
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_questao1.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of questao1.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# Compile of questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.tb_questao1
+# End time: 15:52:47 on Mar 08,2021, Elapsed time: 0:04:09
+# Errors: 0, Warnings: 26
+# vsim work.tb_questao1 
+# Start time: 15:52:47 on Mar 08,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_questao1(testbench)
+# Loading work.questao1(rtl)
+# Loading work.mux(rtl)
+add wave -position insertpoint sim:/tb_questao1/u1/*
+run
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_questao1.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of questao1.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# Compile of questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.tb_questao1
+# End time: 15:56:03 on Mar 08,2021, Elapsed time: 0:03:16
+# Errors: 0, Warnings: 3
+# vsim work.tb_questao1 
+# Start time: 15:56:03 on Mar 08,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_questao1(testbench)
+# Loading work.questao1(rtl)
+# Loading work.mux(rtl)
+add wave -position insertpoint sim:/tb_questao1/u1/*
+run
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_questao1.vhd was successful.
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Compile of questao1.vhd failed.
+# Compile of questao1.vhd failed with 1 errors.
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_questao1.vhd was successful.
+# Errors: 4, Warnings: 0
+# Errors: 4, Warnings: 0
+# Errors: 4, Warnings: 0
+# Compile of questao1.vhd failed.
+# Compile of questao1.vhd failed with 4 errors.
+# Compile of questao1.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of mux.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_questao1.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of questao1.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# Compile of questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.tb_questao1
+# End time: 16:08:17 on Mar 08,2021, Elapsed time: 0:12:14
+# Errors: 0, Warnings: 8
+# vsim work.tb_questao1 
+# Start time: 16:08:17 on Mar 08,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_questao1(testbench)
+# Loading work.questao1(rtl)
+# Loading work.mux(rtl)
+add wave -position insertpoint sim:/tb_questao1/u1/*
+add wave -position insertpoint sim:/tb_questao1/u1/u1/*
+add wave -position insertpoint sim:/tb_questao1/u1/u2/*
+add wave -position insertpoint sim:/tb_questao1/u1/*
+add wave -position insertpoint  \
+sim:/tb_questao1/u1/A \
+sim:/tb_questao1/u1/B \
+sim:/tb_questao1/u1/C \
+sim:/tb_questao1/u1/X \
+sim:/tb_questao1/u1/Y
+run
+# Compile of mux.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# Compile of questao1.vhd failed with 2 errors.
+# 3 compiles, 1 failed with 2 errors.
+# Compile of mux.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# Compile of questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+# End time: 16:20:18 on Mar 08,2021, Elapsed time: 0:12:01
+# Errors: 0, Warnings: 3
+# Closing project /home/gustavo/Documentos/Lab Sd/Experimento 4/questao_1/questao_1.mpf
+# reading /home/gustavo/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project questao2
+# Compile of questao2.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of questao2.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_questao2.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of decod_4x16.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of mux_8x1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of decod_4x16.vhd was successful.
+# Compile of mux_8x1.vhd was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.tb_questao2
+# vsim work.tb_questao2 
+# Start time: 16:27:35 on Mar 08,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_questao2(testbench)
+# Loading work.questao2(rtl)
+# Loading work.decod_4x16(decod)
+# Loading work.mux_8x1(mux)
+add wave -position insertpoint sim:/tb_questao2/u1/*
+# Can't move the Now cursor.
+add wave -position insertpoint  \
+sim:/tb_questao2/u1/A \
+sim:/tb_questao2/u1/B \
+sim:/tb_questao2/u1/C \
+sim:/tb_questao2/u1/D \
+sim:/tb_questao2/u1/E \
+sim:/tb_questao2/u1/F \
+sim:/tb_questao2/u1/G \
+sim:/tb_questao2/u1/S
+run
+run
+run
+run
+run
+run
+restart
+run
+add wave -position insertpoint  \
+sim:/tb_questao2/u1/A \
+sim:/tb_questao2/u1/B \
+sim:/tb_questao2/u1/C \
+sim:/tb_questao2/u1/D \
+sim:/tb_questao2/u1/E \
+sim:/tb_questao2/u1/F \
+sim:/tb_questao2/u1/G \
+sim:/tb_questao2/u1/S
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+restart
+run
+restart
+run
+# Errors: 0, Warnings: 0
+# Compile of questao2.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_questao2.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of decod_4x16.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of mux_8x1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of decod_4x16.vhd was successful.
+# Compile of mux_8x1.vhd was successful.
+# 4 compiles, 0 failed with no errors.
+# End time: 18:50:54 on Mar 08,2021, Elapsed time: 2:23:19
+# Errors: 0, Warnings: 3

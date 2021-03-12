@@ -1,0 +1,34 @@
+{/home/gustavo/Documentos/Lab Sd/Experimento 5/questao2/tb_questao2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {/home/gustavo/Documentos/Lab Sd/Experimento 5/questao2/tb_questao2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity tb_questao2
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling architecture testbench of tb_questao2
+
+} {} {}} {{/home/gustavo/Documentos/Lab Sd/Experimento 5/questao2/tb_questao2.vhd}} {1 {vcom -work work -2002 -explicit {/home/gustavo/Documentos/Lab Sd/Experimento 5/questao2/tb_questao2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 17:25:18 on Mar 11,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/gustavo/Documentos/Lab Sd/Experimento 5/questao2/tb_questao2.vhd 
+-- Loading package STANDARD
+-- Compiling entity tb_questao2
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling architecture testbench of tb_questao2
+End time: 17:25:18 on Mar 11,2021, Elapsed time: 0:00:00
+
+} {} {}} {{/home/gustavo/Documentos/Lab Sd/Experimento 5/questao2/questao2.vhd}} {1 {vcom -work work -2002 -explicit {/home/gustavo/Documentos/Lab Sd/Experimento 5/questao2/questao2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 17:25:18 on Mar 11,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/gustavo/Documentos/Lab Sd/Experimento 5/questao2/questao2.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity questao2
+-- Compiling architecture rtl of questao2
+End time: 17:25:18 on Mar 11,2021, Elapsed time: 0:00:00
+
+} {} {}}

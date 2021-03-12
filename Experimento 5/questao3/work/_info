@@ -1,0 +1,221 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/gustavo/Documentos/Lab Sd/Experimento 5/questao2
+Equestao1
+Z0 w1615510359
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 137
+Z4 d/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3
+Z5 8/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao1.vhd
+Z6 F/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao1.vhd
+l0
+Z7 L26 1
+Vf2L0OF1JA;gNl23J4^6K?0
+!s100 aRXEHjCK@h=8HP;ZA0^1_0
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1615513263
+!i10b 1
+Z10 !s108 1615513263.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao1.vhd|
+Z12 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao1.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 8 questao1 0 22 f2L0OF1JA;gNl23J4^6K?0
+!i122 137
+l54
+L37 29
+VlZ<1;`:d[S5oHLo2f9_8E3
+!s100 YEf80IZG=kX5V>WbfeX[01
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Equestao2
+Z15 w1615494690
+Z16 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R2
+R3
+!i122 136
+R4
+Z17 8/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao2.vhd
+Z18 F/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao2.vhd
+l0
+R7
+VAQnS_MYHa=6F0RMJN?dKU2
+!s100 V]aPfOYcYeP79z1h7fK0S3
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao2.vhd|
+Z20 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao2.vhd|
+!i113 1
+R13
+R14
+Artl
+R16
+R2
+R3
+DEx4 work 8 questao2 0 22 AQnS_MYHa=6F0RMJN?dKU2
+!i122 136
+l40
+L37 9
+VSNhzbm4aiED[_@HbDNBhM0
+!s100 =]4dH>_FPF:WPoH@`Wg:11
+R8
+32
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14
+Esomador
+Z21 w1615485582
+R2
+R3
+!i122 133
+R4
+Z22 8/home/gustavo/Documentos/Lab Sd/Experimento 5/questao1/somador.vhd
+Z23 F/home/gustavo/Documentos/Lab Sd/Experimento 5/questao1/somador.vhd
+l0
+R7
+Vdd90mHSSYZ`=F51BmoFi21
+!s100 Q@lDLV:TS5HW<OP410IOT3
+R8
+32
+R9
+!i10b 1
+R10
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 5/questao1/somador.vhd|
+Z25 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 5/questao1/somador.vhd|
+!i113 1
+R13
+R14
+Artl
+R2
+R3
+DEx4 work 7 somador 0 22 dd90mHSSYZ`=F51BmoFi21
+!i122 133
+l43
+L40 15
+V:Fbi?eC_jl5XzS384N[5E0
+!s100 P^ob>:eDnEC13eFA0_XL02
+R8
+32
+R9
+!i10b 1
+R10
+R24
+R25
+!i113 1
+R13
+R14
+Etb_questao3
+Z26 w1615512984
+R1
+R2
+R3
+!i122 135
+R4
+Z27 8/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/tb_questao3.vhd
+Z28 F/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/tb_questao3.vhd
+l0
+L28 1
+VU]SnNb?;PnBXUzhjC`lAz2
+!s100 3H6Si4^J4jd[KUl?zI[cU3
+R8
+32
+R9
+!i10b 1
+R10
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/tb_questao3.vhd|
+Z30 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/tb_questao3.vhd|
+!i113 1
+R13
+R14
+Atestbench_arch
+R1
+R2
+R3
+DEx4 work 11 tb_questao3 0 22 U]SnNb?;PnBXUzhjC`lAz2
+!i122 135
+l44
+L39 29
+Vzkk3Ykh[<k?c_1M68l_8d0
+!s100 cbPY@f9VzFL`d5?8DleD81
+R8
+32
+R9
+!i10b 1
+R10
+R29
+R30
+!i113 1
+R13
+R14
+Etop_module
+Z31 w1615513105
+!i122 138
+R4
+Z32 8/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/top_module.vhd
+Z33 F/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/top_module.vhd
+l0
+L19 1
+VgKVANh[FfzoLde6=Fli_Q0
+!s100 MkWO7TLKRB4LK7:@hP<RM3
+R8
+32
+R9
+!i10b 1
+R10
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/top_module.vhd|
+Z35 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/top_module.vhd|
+!i113 1
+R13
+R14
+Atopmodule_arch
+Z36 DEx4 work 10 top_module 0 22 gKVANh[FfzoLde6=Fli_Q0
+R1
+R2
+R3
+!i122 138
+l73
+L31 50
+VIF[[kgi8n9I3CY`>R2ERC1
+!s100 HazTZ7lK>^ba:?RKXC7nB2
+R8
+32
+R9
+!i10b 1
+R10
+R34
+R35
+!i113 1
+R13
+R14

@@ -2,19 +2,16 @@
 -- Laboratório de Sistemas Digitais
 -- Autor : Gustavo Pereira Chaves 
 -- Matrícula: 19/0014113
--- Data : 12/03/2021
+-- Data : 19/03/2021
 
--- Implementação das funções booleanas X = A'.B'.C'+ A.B'.C' + A.B e Y = A'.B'+ A'.B.C' + A.B.C utilizando
--- 2 multiplexadores como component
+-- Implementação de um somador de palavras de 4 bits utilizando somadores completos
 
 -- ****************************************** 
 -- Testbench para simulação funcional do
---  Circuito: 2 funções booleanas de 3 entrada: 
+--  Circuito: Somador de palavras de 4 bits:
 --                A Entrada 1
 --                B Entrada 2
---                C Entrada 3
---                X Saida 1 
---                Y Saida 2
+--                S Saida
 -- ******************************************
 
 -- entity (Entidade)
@@ -38,37 +35,33 @@ architecture testbench of tb_questao1 is
  
  component questao1 is
     port (
-        A   :in std_logic;
-        B   :in std_logic;
-        C   :in std_logic;
-        X   :out std_logic;
-        Y   :out std_logic
+        A   :in std_logic_vector(3 downto 0);
+        B   :in std_logic_vector(3 downto 0);
+        S   :out std_logic_vector(4 downto 0)
     );
  end component;
  
 -- Sinais auxiliares para a interconexao ao
 -- processo de estimulo
 
-  signal s  : std_logic_vector(2 downto 0);
+  signal s  : std_logic_vector(7 downto 0);
   
 -- Instancia do componente questao1 e interconexao do componente ao processo de estimulo
 
 begin
     u1: questao1 PORT MAP (
-        A => s(2),
-        B => s(1),
-        C => s(0), 
-        X => open, 
-        Y => open
+        A => s(3 downto 0),
+        B => s(7 downto 4),
+        S => open
     );
 
 -- Implementacao do processo de estimulo
 
  estimulo: process
     begin  
-        for i in 0 to 7 loop
+        for i in 255 downto 0 loop
             wait for 5 ns; 
-            s <= std_logic_vector(to_unsigned(i, 3));
+            s <= std_logic_vector(to_unsigned(i, 8));
         end loop;
         wait;
 -- Fim do processo de estimulo
@@ -78,4 +71,3 @@ begin
 --Fim da definiçao da arquitetura
 
 END;
-
