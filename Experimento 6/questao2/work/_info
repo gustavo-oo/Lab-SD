@@ -1,0 +1,94 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/gustavo/Documentos/Lab Sd/Experimento 6/questao1
+Ereg_bi
+Z0 w1616179250
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 30
+Z4 d/home/gustavo/Documentos/Lab Sd/Experimento 6/questao2
+Z5 8/home/gustavo/Documentos/Lab Sd/Experimento 6/questao2/reg_bi.vhd
+Z6 F/home/gustavo/Documentos/Lab Sd/Experimento 6/questao2/reg_bi.vhd
+l0
+L31 1
+VmYiSHkg>J;JaYR0P`1TeD0
+!s100 9QB:J:NKVRZa;Eo<J7aS:0
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1616179269
+!i10b 1
+Z9 !s108 1616179269.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 6/questao2/reg_bi.vhd|
+Z11 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 6/questao2/reg_bi.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Areg_bi_arch
+R1
+R2
+R3
+DEx4 work 6 reg_bi 0 22 mYiSHkg>J;JaYR0P`1TeD0
+!i122 30
+l49
+L42 24
+Vk;STmkP:lPOYl_P?WWmz11
+!s100 lfi_gj]9doZ>C_KRJ_FDY3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_reg_bi
+Z14 w1616179537
+!i122 32
+R4
+Z15 8/home/gustavo/Documentos/Lab Sd/Experimento 6/questao2/tb_reg_bi.vhd
+Z16 F/home/gustavo/Documentos/Lab Sd/Experimento 6/questao2/tb_reg_bi.vhd
+l0
+L25 1
+VdhSCM==eeF8lCA7oH^6Tz0
+!s100 Pe>5iJ^VZ9cGTI1DY@APG1
+R7
+32
+Z17 !s110 1616180200
+!i10b 1
+Z18 !s108 1616180200.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 6/questao2/tb_reg_bi.vhd|
+Z20 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 6/questao2/tb_reg_bi.vhd|
+!i113 1
+R12
+R13
+Atb_reg_bi_arch
+Z21 DEx4 work 9 tb_reg_bi 0 22 dhSCM==eeF8lCA7oH^6Tz0
+R1
+R2
+R3
+!i122 32
+l59
+L37 54
+VzTXJIYIma0[iI^2A_9U6h1
+!s100 2O0m1z_kZgY@H]eNDVQ<j3
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13

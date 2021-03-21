@@ -10,25 +10,25 @@ z2
 cModel Technology
 d/home/gustavo/Documentos/Lab Sd/Experimento 5/questao2
 Equestao1
-Z0 w1615510359
+Z0 w1615495528
 Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
 Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 137
+!i122 144
 Z4 d/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3
-Z5 8/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao1.vhd
-Z6 F/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao1.vhd
+Z5 8/home/gustavo/Documentos/Lab Sd/Experimento 5/questao1/questao1.vhd
+Z6 F/home/gustavo/Documentos/Lab Sd/Experimento 5/questao1/questao1.vhd
 l0
 Z7 L26 1
 Vf2L0OF1JA;gNl23J4^6K?0
 !s100 aRXEHjCK@h=8HP;ZA0^1_0
 Z8 OV;C;2020.1;71
 32
-Z9 !s110 1615513263
+Z9 !s110 1615514655
 !i10b 1
-Z10 !s108 1615513263.000000
-Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao1.vhd|
-Z12 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao1.vhd|
+Z10 !s108 1615514655.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 5/questao1/questao1.vhd|
+Z12 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 5/questao1/questao1.vhd|
 !i113 1
 Z13 o-work work -2002 -explicit
 Z14 tExplicit 1 CvgOpt 0
@@ -37,7 +37,7 @@ R1
 R2
 R3
 DEx4 work 8 questao1 0 22 f2L0OF1JA;gNl23J4^6K?0
-!i122 137
+!i122 144
 l54
 L37 29
 VlZ<1;`:d[S5oHLo2f9_8E3
@@ -57,7 +57,7 @@ Z15 w1615494690
 Z16 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
 R2
 R3
-!i122 136
+!i122 147
 R4
 Z17 8/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao2.vhd
 Z18 F/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/questao2.vhd
@@ -80,7 +80,7 @@ R16
 R2
 R3
 DEx4 work 8 questao2 0 22 AQnS_MYHa=6F0RMJN?dKU2
-!i122 136
+!i122 147
 l40
 L37 9
 VSNhzbm4aiED[_@HbDNBhM0
@@ -99,7 +99,7 @@ Esomador
 Z21 w1615485582
 R2
 R3
-!i122 133
+!i122 145
 R4
 Z22 8/home/gustavo/Documentos/Lab Sd/Experimento 5/questao1/somador.vhd
 Z23 F/home/gustavo/Documentos/Lab Sd/Experimento 5/questao1/somador.vhd
@@ -121,7 +121,7 @@ Artl
 R2
 R3
 DEx4 work 7 somador 0 22 dd90mHSSYZ`=F51BmoFi21
-!i122 133
+!i122 145
 l43
 L40 15
 V:Fbi?eC_jl5XzS384N[5E0
@@ -141,7 +141,7 @@ Z26 w1615512984
 R1
 R2
 R3
-!i122 135
+!i122 146
 R4
 Z27 8/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/tb_questao3.vhd
 Z28 F/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/tb_questao3.vhd
@@ -164,7 +164,7 @@ R1
 R2
 R3
 DEx4 work 11 tb_questao3 0 22 U]SnNb?;PnBXUzhjC`lAz2
-!i122 135
+!i122 146
 l44
 L39 29
 Vzkk3Ykh[<k?c_1M68l_8d0
@@ -181,7 +181,7 @@ R13
 R14
 Etop_module
 Z31 w1615513105
-!i122 138
+!i122 148
 R4
 Z32 8/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/top_module.vhd
 Z33 F/home/gustavo/Documentos/Lab Sd/Experimento 5/questao3/top_module.vhd
@@ -204,11 +204,11 @@ Z36 DEx4 work 10 top_module 0 22 gKVANh[FfzoLde6=Fli_Q0
 R1
 R2
 R3
-!i122 138
+!i122 148
 l73
-L31 50
-VIF[[kgi8n9I3CY`>R2ERC1
-!s100 HazTZ7lK>^ba:?RKXC7nB2
+Z37 L31 50
+Z38 VIF[[kgi8n9I3CY`>R2ERC1
+Z39 !s100 HazTZ7lK>^ba:?RKXC7nB2
 R8
 32
 R9

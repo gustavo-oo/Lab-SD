@@ -1,0 +1,115 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/gustavo/.local/share/Trash/files/home/gustavo/Documentos/Lab Sd/Experimento 6/Questão 1
+Eflipflopjk
+Z0 w1615858028
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 6
+Z4 d/home/gustavo/Documentos/Lab Sd/Experimento 6/questao1
+Z5 8/home/gustavo/Documentos/Lab Sd/Experimento 6/questao1/flipflopJK.vhd
+Z6 F/home/gustavo/Documentos/Lab Sd/Experimento 6/questao1/flipflopJK.vhd
+l0
+L29 1
+VR:ezalo@XnohgXFZH]VFa1
+!s100 0Vc=ah:aK7Z?hKf>VN30D1
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1616170768
+!i10b 1
+Z9 !s108 1616170768.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 6/questao1/flipflopJK.vhd|
+Z11 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 6/questao1/flipflopJK.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aflipflopjk_arch
+R1
+R2
+R3
+DEx4 work 10 flipflopjk 0 22 R:ezalo@XnohgXFZH]VFa1
+!i122 6
+l47
+L39 28
+Vbi6d[3hSmg5BW7=K?3f@B3
+!s100 hZF57g5M8EZe2NXHdQIVN2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_flipflopjk
+Z14 w1616170764
+!i122 7
+R4
+Z15 8/home/gustavo/Documentos/Lab Sd/Experimento 6/questao1/tb_flipflopJK.vhd
+Z16 F/home/gustavo/Documentos/Lab Sd/Experimento 6/questao1/tb_flipflopJK.vhd
+l0
+L23 1
+V2Kf9::gmP8zDlPiWCa]ZU2
+!s100 =iSbS7851GF_EY[]LMzCR3
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 6/questao1/tb_flipflopJK.vhd|
+Z18 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 6/questao1/tb_flipflopJK.vhd|
+!i113 1
+R12
+R13
+Atb_flipflopjk_arch
+Z19 DEx4 work 13 tb_flipflopjk 0 22 2Kf9::gmP8zDlPiWCa]ZU2
+R1
+R2
+R3
+!i122 7
+l55
+Z20 L35 47
+Z21 VE?@`<B?;cEanP:0C]1VC41
+Z22 !s100 dJe8D=8576FWT[@Z`7iI;3
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Atestbench
+R19
+R1
+R2
+R3
+!i122 3
+l55
+R20
+VSZAW1>biGXhO:TR>1??dG2
+!s100 o5:_9:fWjH6b?=fFNBh[H2
+R7
+32
+!s110 1616170055
+!i10b 1
+!s108 1616170055.000000
+R17
+R18
+!i113 1
+R12
+R13
+w1616169979

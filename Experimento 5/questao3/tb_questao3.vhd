@@ -4,10 +4,10 @@
 -- Matrícula: 19/0014113
 -- Data : 19/03/2021
 
--- Implementação de um somador de palavras de 4 bits utilizando o operador '+'
+-- Testbench que compara o dut (questão 1) com o golden module (questão 2)
 
 -- ****************************************** 
--- Testbench para simulação funcional do
+-- Testbench para validação do
 --  Circuito: Somador de palavras de 4 bits:
 --                A Entrada 1
 --                B Entrada 2

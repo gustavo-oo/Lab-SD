@@ -4,7 +4,7 @@
 -- Matrícula: 19/0014113
 -- Data : 19/03/2021
 
--- Implementação de um somador de palavras de 4 bits utilizando o operador '+'
+-- TopModule para interconexão de todos os componentes
 
 -- ****************************************** 
 -- TopModule do Circuito: Somador de palavras de 4 bits
