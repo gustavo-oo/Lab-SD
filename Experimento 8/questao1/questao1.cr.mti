@@ -1,0 +1,67 @@
+{/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/contador10.vhd} {1 {vcom -work work -2002 -explicit -stats=none {/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/contador10.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contador10
+-- Compiling architecture contador10_arch of contador10
+
+} {} {}} {/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/questao1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/questao1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contador100
+-- Compiling architecture contador100_arch of contador100
+
+} {} {}} {{/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/questao1.vhd}} {1 {vcom -work work -2002 -explicit {/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/questao1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 17:35:29 on Apr 21,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/questao1.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contador100
+-- Compiling architecture contador100_arch of contador100
+End time: 17:35:29 on Apr 21,2021, Elapsed time: 0:00:00
+
+} {} {}} {{/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/contador10.vhd}} {1 {vcom -work work -2002 -explicit {/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/contador10.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 17:35:29 on Apr 21,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/contador10.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contador10
+-- Compiling architecture contador10_arch of contador10
+End time: 17:35:30 on Apr 21,2021, Elapsed time: 0:00:01
+
+} {} {}} {/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/tb_questao1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/tb_questao1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity tb_questao1
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling architecture tb_questao1_arch of tb_questao1
+
+} {} {}} {{/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/tb_questao1.vhd}} {0 {vcom -work work -2002 -explicit {/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/tb_questao1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 17:35:30 on Apr 21,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/tb_questao1.vhd 
+-- Loading package STANDARD
+-- Compiling entity tb_questao1
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling architecture tb_questao1_arch of tb_questao1
+** Error: /home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/tb_questao1.vhd(69): Illegal target for signal assignment.
+** Error: /home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/tb_questao1.vhd(69): (vcom-1136) Unknown identifier "A".
+** Note: /home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/tb_questao1.vhd(80): VHDL Compiler exiting
+End time: 17:35:30 on Apr 21,2021, Elapsed time: 0:00:00
+
+} {11.0 13.0} {}}

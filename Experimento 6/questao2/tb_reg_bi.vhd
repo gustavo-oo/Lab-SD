@@ -54,7 +54,7 @@ architecture tb_reg_bi_arch of tb_reg_bi is
   signal LR : std_logic_vector(1 downto 0);
   signal d : std_logic_vector(3 downto 0);
   
--- Instancia do componente flipflopJK e interconexao do componente ao processo de estimulo
+-- Instancia do componente reg_bi e interconexao do componente ao processo de estimulo
 
 begin
     u0: reg_bi port map (clk, rst, load, dir, LR(1), LR(0), D, Q => open);

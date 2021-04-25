@@ -1,0 +1,364 @@
+# reading /home/gustavo/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project MaquinaEstados
+# Compile of MqEstRefri.vhd failed with 2 errors.
+# Compile of tb_MqEstRefri.vhd failed with 10 errors.
+# 2 compiles, 2 failed with 12 errors.
+# Errors: 1, Warnings: 0
+# Errors: 10, Warnings: 0
+# Errors: 1, Warnings: 0
+# Compile of MqEstRefri.vhd failed.
+# Errors: 10, Warnings: 0
+# Compile of tb_MqEstRefri.vhd failed.
+# Compile of MqEstRefri.vhd failed with 1 errors.
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd failed with 10 errors.
+# Compile of tb_MqEstRefri.vhd was successful.
+vsim work.tb_mqestrefri
+# vsim work.tb_mqestrefri 
+# Start time: 16:52:27 on Mar 21,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+add wave -position insertpoint sim:/tb_mqestrefri/u0/*
+run
+quit -sim
+# End time: 16:58:45 on Mar 21,2021, Elapsed time: 0:06:18
+# Errors: 0, Warnings: 11
+# Compile of MqEstRefri.vhd failed with 2 errors.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of MqEstRefri.vhd failed with 1 errors.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of MqEstRefri.vhd was successful.
+vsim work.tb_mqestrefri
+# vsim work.tb_mqestrefri 
+# Start time: 16:59:59 on Mar 21,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+add wave -position insertpoint sim:/tb_mqestrefri/u0/*
+run
+quit -sim
+# End time: 17:10:25 on Mar 21,2021, Elapsed time: 0:10:26
+# Errors: 0, Warnings: 4
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_mqestrefri
+# vsim work.tb_mqestrefri 
+# Start time: 17:10:34 on Mar 21,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+add wave -position insertpoint sim:/tb_mqestrefri/u0/*
+run
+# Compile of MqEstRefri.vhd failed with 1 errors.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd failed with 89 errors.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 1 failed with 89 errors.
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+quit -sim
+# End time: 17:30:10 on Mar 21,2021, Elapsed time: 0:19:36
+# Errors: 0, Warnings: 1
+# reading /home/gustavo/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project reg_bid
+vsim work.tb_reg_bi
+# vsim work.tb_reg_bi 
+# Start time: 17:30:55 on Mar 21,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_reg_bi(tb_reg_bi_arch)
+# Loading work.reg_bi(reg_bi_arch)
+add wave -position insertpoint sim:/tb_reg_bi/u0/*
+run
+quit -sim
+# End time: 17:32:21 on Mar 21,2021, Elapsed time: 0:01:26
+# Errors: 0, Warnings: 1
+# reading /home/gustavo/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project MaquinaEstados
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_mqestrefri
+# vsim work.tb_mqestrefri 
+# Start time: 17:35:13 on Mar 21,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+add wave -position insertpoint sim:/tb_mqestrefri/u0/*
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+restart
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+quit -sim
+# End time: 18:49:32 on Mar 21,2021, Elapsed time: 1:14:19
+# Errors: 0, Warnings: 2
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_mqestrefri
+# vsim work.tb_mqestrefri 
+# Start time: 18:50:05 on Mar 21,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+add wave -position insertpoint sim:/tb_mqestrefri/u0/*
+run
+run
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# Compile of MqEstRefri.vhd was successful.
+# Compile of tb_MqEstRefri.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_mqestrefri(tb_mqestrefri_arch)
+# Loading work.mqestrefri(mqestrefri_arch)
+run
+# End time: 19:21:31 on Mar 21,2021, Elapsed time: 0:31:26
+# Errors: 0, Warnings: 1

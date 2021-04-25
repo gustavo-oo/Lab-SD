@@ -1,0 +1,151 @@
+# reading /home/gustavo/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project questao3
+# Compile of maqestados.vhd failed with 1 errors.
+# Compile of maqestados.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of questao3.vhd was successful.
+# Errors: 1, Warnings: 0
+# Errors: 0, Warnings: 0
+# Compile of maqestados.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of contador10.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of questao1.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of questao2.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of timeflags.vhd was successful.
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Compile of tb_questao3.vhd failed.
+# Errors: 0, Warnings: 0
+# Compile of questao3.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of maqestados.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of contador10.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of questao1.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of questao2.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of timeflags.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_questao3.vhd was successful.
+# Compile of questao3.vhd was successful.
+# Compile of maqestados.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao3.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+vsim work.tb_questao3
+# vsim work.tb_questao3 
+# Start time: 16:55:59 on Apr 23,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_questao3(tb_questao3_arch)
+# Loading work.questao3(questao3_arch)
+# Loading work.maqestados(maqestados_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+# Loading work.timeflags(timeflags_arch)
+add wave -position insertpoint sim:/tb_questao3/u0/*
+run
+# Compile of questao3.vhd was successful.
+# Compile of maqestados.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao3.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao3(tb_questao3_arch)
+# Loading work.questao3(questao3_arch)
+# Loading work.maqestados(maqestados_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+# Loading work.timeflags(timeflags_arch)
+run
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Compile of questao3.vhd was successful.
+# Compile of maqestados.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao3.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao3(tb_questao3_arch)
+# Loading work.questao3(questao3_arch)
+# Loading work.maqestados(maqestados_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+# Loading work.timeflags(timeflags_arch)
+run
+# Compile of questao3.vhd was successful.
+# Compile of maqestados.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao3.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao3(tb_questao3_arch)
+# Loading work.questao3(questao3_arch)
+# Loading work.maqestados(maqestados_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+# Loading work.timeflags(timeflags_arch)
+run
+# Compile of questao3.vhd failed with 2 errors.
+# Compile of maqestados.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao3.vhd was successful.
+# 7 compiles, 1 failed with 2 errors.
+# Compile of questao3.vhd failed with 2 errors.
+# Compile of maqestados.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao3.vhd was successful.
+# 7 compiles, 1 failed with 2 errors.
+# Compile of questao3.vhd was successful.
+# Compile of maqestados.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao3.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao3(tb_questao3_arch)
+# Loading work.questao3(questao3_arch)
+# Loading work.maqestados(maqestados_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+# Loading work.timeflags(timeflags_arch)
+run
+# End time: 17:44:04 on Apr 23,2021, Elapsed time: 0:48:05
+# Errors: 0, Warnings: 1

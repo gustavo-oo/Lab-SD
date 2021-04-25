@@ -1,0 +1,55 @@
+{/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/MqEstRefri.vhd} {1 {vcom -work work -2002 -explicit -stats=none {/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/MqEstRefri.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MqEstRefri
+-- Compiling architecture MqEstRefri_arch of MqEstRefri
+
+} {} {}} {{/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/MqEstRefri.vhd}} {0 {vcom -work work -2002 -explicit {/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/MqEstRefri.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 16:51:11 on Mar 21,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/MqEstRefri.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MqEstRefri
+-- Compiling architecture MqEstRefri_arch of MqEstRefri
+** Error: /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/MqEstRefri.vhd(53): near "if": syntax error
+End time: 16:51:11 on Mar 21,2021, Elapsed time: 0:00:00
+
+} {11.0 12.0} {}} {/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd} {1 {vcom -work work -2002 -explicit -stats=none {/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity tb_MqEstRefri
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling architecture tb_MqEstRefri_arch of tb_MqEstRefri
+
+} {} {}} {{/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd}} {0 {vcom -work work -2002 -explicit {/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 16:51:11 on Mar 21,2021
+vcom -reportprogress 300 -work work -2002 -explicit /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd 
+-- Loading package STANDARD
+-- Compiling entity tb_MqEstRefri
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling architecture tb_MqEstRefri_arch of tb_MqEstRefri
+** Error: /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd(66): Illegal target for signal assignment.
+** Error: /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd(66): (vcom-1136) Unknown identifier "A".
+** Error: /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd(68): Illegal target for signal assignment.
+** Error: /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd(68): (vcom-1136) Unknown identifier "A".
+** Error: /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd(70): Illegal target for signal assignment.
+** Error: /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd(70): (vcom-1136) Unknown identifier "A".
+** Error: /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd(72): Illegal target for signal assignment.
+** Error: /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd(72): (vcom-1136) Unknown identifier "A".
+** Error: /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd(74): Illegal target for signal assignment.
+** Error: /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd(74): (vcom-1136) Unknown identifier "A".
+** Note: /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd(84): VHDL Compiler exiting
+End time: 16:51:11 on Mar 21,2021, Elapsed time: 0:00:00
+
+} {11.0 21.0} {}}

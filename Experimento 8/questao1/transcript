@@ -1,0 +1,329 @@
+# reading /home/gustavo/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project questao1
+# Compile of questao1.vhd was successful.
+# Compile of contador10.vhd was successful with warnings.
+# Compile of tb_questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+# Compile of questao1.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.tb_questao1
+# vsim work.tb_questao1 
+# Start time: 19:05:29 on Apr 21,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_questao1(tb_questao1_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+add wave -position insertpoint sim:/tb_questao1/*
+add wave -position insertpoint sim:/tb_questao1/u0/*
+add wave -position insertpoint sim:/tb_questao1/u0/*
+run
+# Compile of questao1.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao1(tb_questao1_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+run
+# Compile of questao1.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+# Load canceled
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao1(tb_questao1_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+run
+# Compile of questao1.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao1(tb_questao1_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+run
+# Compile of questao1.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao1(tb_questao1_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+run
+# Compile of questao1.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao1(tb_questao1_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+run
+# Compile of questao1.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao1(tb_questao1_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+run
+quit -sim
+# End time: 19:27:42 on Apr 21,2021, Elapsed time: 0:22:13
+# Errors: 0, Warnings: 1
+# Compile of questao1.vhd was successful.
+# Compile of contador10.vhd was successful.
+# Compile of tb_questao1.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+# reading /home/gustavo/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project questao2
+# Errors: 1, Warnings: 0
+# Errors: 5, Warnings: 0
+# Errors: 1, Warnings: 0
+# Errors: 0, Warnings: 0
+# Compile of questao1.vhd was successful.
+# Errors: 1, Warnings: 0
+# Errors: 5, Warnings: 0
+# Errors: 1, Warnings: 0
+# Errors: 1, Warnings: 0
+# Compile of questao2.vhd failed.
+# Errors: 5, Warnings: 0
+# Compile of timeflags.vhd failed.
+# Errors: 1, Warnings: 0
+# Compile of tb_questao2.vhd failed.
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd failed with 1 errors.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd failed with 5 errors.
+# Compile of timeflags.vhd failed with 4 errors.
+# Compile of timeflags.vhd failed with 1 errors.
+# Compile of timeflags.vhd was successful with warnings.
+# Compile of timeflags.vhd failed with 1 errors.
+# Compile of timeflags.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of tb_questao2.vhd failed with 10 errors.
+# Compile of questao2.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+vsim work.tb_questao2
+# vsim work.tb_questao2 
+# Start time: 20:07:15 on Apr 21,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_questao2(tb_questao2_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# ** Warning: (vsim-3473) Component instance "unidade : contador10" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_questao2/u0/u0 File: /home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/questao1.vhd
+# ** Warning: (vsim-3473) Component instance "dezena : contador10" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_questao2/u0/u0 File: /home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/questao1.vhd
+# Loading work.timeflags(timeflags_arch)
+# ** Warning: (vsim-8684) No drivers exist on out port /tb_questao2/u0/u0/cont_dezena, and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tb_questao2/u0/s_dezena.
+# ** Warning: (vsim-8684) No drivers exist on out port /tb_questao2/u0/u0/cont_unidade, and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tb_questao2/u0/s_unidade.
+# ** Warning: (vsim-8683) Uninitialized out port /tb_questao2/u0/cont_dezena(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /tb_questao2/u0/cont_unidade(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+add wave -position insertpoint sim:/tb_questao2/u0/*
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao2(tb_questao2_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# ** Warning: (vsim-3473) Component instance "unidade : contador10" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_questao2/u0/u0 File: /home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/questao1.vhd
+# ** Warning: (vsim-3473) Component instance "dezena : contador10" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_questao2/u0/u0 File: /home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/questao1.vhd
+# Loading work.timeflags(timeflags_arch)
+# ** Warning: (vsim-8684) No drivers exist on out port /tb_questao2/u0/u0/cont_dezena, and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tb_questao2/u0/s_dezena.
+# ** Warning: (vsim-8684) No drivers exist on out port /tb_questao2/u0/u0/cont_unidade, and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /tb_questao2/u0/s_unidade.
+# ** Warning: (vsim-8683) Uninitialized out port /tb_questao2/u0/cont_dezena(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /tb_questao2/u0/cont_unidade(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run
+quit -sim
+# End time: 20:12:35 on Apr 21,2021, Elapsed time: 0:05:20
+# Errors: 0, Warnings: 7
+# Errors: 0, Warnings: 0
+# Compile of questao1.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of questao2.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of timeflags.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of tb_questao2.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of contador10.vhd was successful.
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of contador10.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+vsim work.tb_questao2
+# vsim work.tb_questao2 
+# Start time: 20:13:14 on Apr 21,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_questao2(tb_questao2_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+# Loading work.timeflags(timeflags_arch)
+# ** Warning: (vsim-8683) Uninitialized out port /tb_questao2/u0/cont_dezena(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /tb_questao2/u0/cont_unidade(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+add wave -position insertpoint sim:/tb_questao2/u0/*
+run
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of contador10.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd failed with 2 errors.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of contador10.vhd was successful.
+# 5 compiles, 1 failed with 2 errors.
+# Compile of questao2.vhd failed with 2 errors.
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of contador10.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao2(tb_questao2_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+# Loading work.timeflags(timeflags_arch)
+run
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of contador10.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao2(tb_questao2_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+# Loading work.timeflags(timeflags_arch)
+run
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of contador10.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao2(tb_questao2_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+# Loading work.timeflags(timeflags_arch)
+run
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of contador10.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao2(tb_questao2_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+# Loading work.timeflags(timeflags_arch)
+run
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of contador10.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao2(tb_questao2_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+# Loading work.timeflags(timeflags_arch)
+run
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of contador10.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of contador10.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_questao2(tb_questao2_arch)
+# Loading work.questao2(questao2_arch)
+# Loading work.contador100(contador100_arch)
+# Loading work.contador10(contador10_arch)
+# Loading work.timeflags(timeflags_arch)
+run
+quit -sim
+# End time: 20:32:42 on Apr 21,2021, Elapsed time: 0:19:28
+# Errors: 0, Warnings: 1
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of contador10.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+# Compile of questao1.vhd was successful.
+# Compile of questao2.vhd was successful.
+# Compile of timeflags.vhd was successful.
+# Compile of tb_questao2.vhd was successful.
+# Compile of contador10.vhd was successful.
+# 5 compiles, 0 failed with no errors.

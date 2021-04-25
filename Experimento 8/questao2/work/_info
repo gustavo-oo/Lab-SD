@@ -1,0 +1,223 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1
+Econtador10
+Z0 w1619046745
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 89
+Z4 d/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2
+Z5 8/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/contador10.vhd
+Z6 F/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/contador10.vhd
+l0
+L31 1
+VRX_B[hSDYdcA]]=ZZKLfj3
+!s100 B@?^G?MC7DnLok=8FH=4_0
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1619048000
+!i10b 1
+Z9 !s108 1619048000.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/contador10.vhd|
+Z11 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/contador10.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Acontador10_arch
+R1
+R2
+R3
+Z14 DEx4 work 10 contador10 0 22 RX_B[hSDYdcA]]=ZZKLfj3
+!i122 89
+l52
+Z15 L43 139
+Z16 VVM@UZKRXYj>1PGZ5X?:ZR3
+Z17 !s100 dh[TFB>=3i9N4k75bEHAa1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtador100
+Z18 w1619044931
+R1
+R2
+R3
+!i122 85
+R4
+Z19 8/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/questao1.vhd
+Z20 F/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/questao1.vhd
+l0
+Z21 L32 1
+VST^DQjGWz:YfZeD41?@X92
+!s100 5J@_X[^i<dKPk`=T?8[bT1
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/questao1.vhd|
+Z23 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/questao1.vhd|
+!i113 1
+R12
+R13
+Acontador100_arch
+R1
+R2
+R3
+DEx4 work 11 contador100 0 22 ST^DQjGWz:YfZeD41?@X92
+!i122 85
+l60
+L43 23
+V63DV>=nD:ROHFfz>]NJnY0
+!s100 ==YzL1fJT3?9CjH0NRLe]3
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Equestao2
+Z24 w1619047082
+R1
+R2
+R3
+!i122 86
+R4
+Z25 8/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/questao2.vhd
+Z26 F/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/questao2.vhd
+l0
+R21
+V;_jSa[_3FNV@B8niFEnM13
+!s100 <:;g?fZ6:QEB^ozn]o1gO3
+R7
+32
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/questao2.vhd|
+Z28 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/questao2.vhd|
+!i113 1
+R12
+R13
+Aquestao2_arch
+R1
+R2
+R3
+DEx4 work 8 questao2 0 22 ;_jSa[_3FNV@B8niFEnM13
+!i122 86
+l69
+L43 35
+Vd;`YV=]Nj2>[FE:12?3mc1
+!s100 I_WzEX]4KFMA[`k`ED5iz3
+R7
+32
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Etb_questao2
+Z29 w1619047551
+!i122 88
+R4
+Z30 8/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/tb_questao2.vhd
+Z31 F/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/tb_questao2.vhd
+l0
+L26 1
+Vm]RBH7[5:T]JIm^>:W:OO3
+!s100 YU9c`2RXKjH^<XG9HSo3b3
+R7
+32
+R8
+!i10b 1
+R9
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/tb_questao2.vhd|
+Z33 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/tb_questao2.vhd|
+!i113 1
+R12
+R13
+Atb_questao2_arch
+DEx4 work 11 tb_questao2 0 22 m]RBH7[5:T]JIm^>:W:OO3
+R1
+R2
+R3
+!i122 88
+l59
+L38 41
+Vc1PN2NMh=M5bX8oaXAFiY0
+!s100 9fWeYW`73N5R^2QDlGI_X3
+R7
+32
+R8
+!i10b 1
+R9
+R32
+R33
+!i113 1
+R12
+R13
+Etimeflags
+Z34 w1619047134
+R1
+R2
+R3
+!i122 87
+R4
+Z35 8/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/timeflags.vhd
+Z36 F/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/timeflags.vhd
+l0
+L29 1
+VN;U`coU<bWX:8k_h0C]752
+!s100 @RFk>LiPng]PWFz@CWz6W3
+R7
+32
+R8
+!i10b 1
+R9
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/timeflags.vhd|
+Z38 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 8/questao2/timeflags.vhd|
+!i113 1
+R12
+R13
+Atimeflags_arch
+R1
+R2
+R3
+DEx4 work 9 timeflags 0 22 N;U`coU<bWX:8k_h0C]752
+!i122 87
+l47
+L39 17
+VkC8d9[=1E1UGicEHK=lLh2
+!s100 3S[g6<G[g=XO>>O_S<UTW1
+R7
+32
+R8
+!i10b 1
+R9
+R37
+R38
+!i113 1
+R12
+R13

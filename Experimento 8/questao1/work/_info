@@ -1,0 +1,137 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/gustavo
+Econtador10
+Z0 w1619042711
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 90
+Z4 d/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1
+Z5 8/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/contador10.vhd
+Z6 F/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/contador10.vhd
+l0
+L31 1
+VRX_B[hSDYdcA]]=ZZKLfj3
+!s100 B@?^G?MC7DnLok=8FH=4_0
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1619044080
+!i10b 1
+Z9 !s108 1619044080.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/contador10.vhd|
+Z11 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/contador10.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Acontador10_arch
+R1
+R2
+R3
+DEx4 work 10 contador10 0 22 RX_B[hSDYdcA]]=ZZKLfj3
+!i122 90
+l52
+L43 139
+VVM@UZKRXYj>1PGZ5X?:ZR3
+!s100 dh[TFB>=3i9N4k75bEHAa1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtador100
+Z14 w1619036189
+R1
+R2
+R3
+!i122 89
+R4
+Z15 8/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/questao1.vhd
+Z16 F/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/questao1.vhd
+l0
+L32 1
+VST^DQjGWz:YfZeD41?@X92
+!s100 5J@_X[^i<dKPk`=T?8[bT1
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/questao1.vhd|
+Z18 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/questao1.vhd|
+!i113 1
+R12
+R13
+Acontador100_arch
+R1
+R2
+R3
+DEx4 work 11 contador100 0 22 ST^DQjGWz:YfZeD41?@X92
+!i122 89
+l60
+L43 23
+V63DV>=nD:ROHFfz>]NJnY0
+!s100 ==YzL1fJT3?9CjH0NRLe]3
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Etb_questao1
+Z19 w1619043561
+!i122 91
+R4
+Z20 8/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/tb_questao1.vhd
+Z21 F/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/tb_questao1.vhd
+l0
+L26 1
+Vcgb6VdQ3=mjh5KPe:kSG72
+!s100 2Hn>dP[>OIO_;l^n3ScSU2
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/tb_questao1.vhd|
+Z23 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 8/questao1/tb_questao1.vhd|
+!i113 1
+R12
+R13
+Atb_questao1_arch
+Z24 DEx4 work 11 tb_questao1 0 22 cgb6VdQ3=mjh5KPe:kSG72
+R1
+R2
+R3
+!i122 91
+l59
+Z25 L38 50
+VfZM6ZPZl@CLPFK5CcB5:m0
+!s100 Hl0igcCG:a3Fn_OKecaiP2
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13

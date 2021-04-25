@@ -1,0 +1,94 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/gustavo
+Emqestrefri
+Z0 w1616372908
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 118
+Z4 d/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1
+Z5 8/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/MqEstRefri.vhd
+Z6 F/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/MqEstRefri.vhd
+l0
+L29 1
+V7@2ib5GUBmiK92HU]C;UC1
+!s100 dL5aiLG9h;G70fIQi8hol3
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1616373325
+!i10b 1
+Z9 !s108 1616373325.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/MqEstRefri.vhd|
+Z11 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/MqEstRefri.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Amqestrefri_arch
+R1
+R2
+R3
+DEx4 work 10 mqestrefri 0 22 7@2ib5GUBmiK92HU]C;UC1
+!i122 118
+l50
+L40 99
+V?^79nZKD0a^Lf[^1GL1OL2
+!s100 NWVZn^<?1dI`E:nZN;8nb1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_mqestrefri
+Z14 w1616372903
+!i122 119
+R4
+Z15 8/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd
+Z16 F/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd
+l0
+L23 1
+VPBgO3`VdZMj8<0e5DzWdd3
+!s100 ]Yg@c]kOfzdng1ch346dX3
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd|
+Z18 !s107 /home/gustavo/Documentos/Lab Sd/Experimento 7/questao1/tb_MqEstRefri.vhd|
+!i113 1
+R12
+R13
+Atb_mqestrefri_arch
+Z19 DEx4 work 13 tb_mqestrefri 0 22 PBgO3`VdZMj8<0e5DzWdd3
+R1
+R2
+R3
+!i122 119
+l56
+Z20 L35 101
+Z21 V3^UnB^N98a2kH[RaiSFa63
+Z22 !s100 1hWPQJAMNmV?T7hY`Pj6h2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
